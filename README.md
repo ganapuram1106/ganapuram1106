@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganapuram1106&label=Profile%20views&color=0e75b6&style=flat" alt="ganapuram1106" /> </p>
 
-- 🔭 I’m currently working on [text classification](https://github.com/ganapuram1106/Nlp-project)
 
 - 🌱 I’m currently learning **JavaScript,Computer vision,Large Language Models**
 
